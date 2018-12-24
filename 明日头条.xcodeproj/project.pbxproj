@@ -353,8 +353,8 @@
 		B49BFE9521CDCCE200FC4825 /* Controller */ = {
 			isa = PBXGroup;
 			children = (
-				B49BFE9621CDCCE200FC4825 /* DCMeViewController.m */,
 				B49BFE9721CDCCE200FC4825 /* DCMeViewController.h */,
+				B49BFE9621CDCCE200FC4825 /* DCMeViewController.m */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
