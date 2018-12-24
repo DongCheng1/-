@@ -1,0 +1,6 @@
+platform :ios, '9.0'
+target '明日头条' do
+pod 'AFNetworking'
+pod 'MJExtension', '~> 3.0.15.1'
+pod "SDWebImage"
+end
