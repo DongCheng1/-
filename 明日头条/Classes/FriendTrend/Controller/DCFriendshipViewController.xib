@@ -29,7 +29,7 @@
                 </imageView>
                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="til-OE-YcG">
                     <rect key="frame" x="68" y="303.5" width="239" height="61"/>
-                    <string key="text">快快登陆吧，关注百思最in牛人
+                    <string key="text">快快登陆吧，关注抖词最in牛人
 好友动态让你过把瘾吧
 欧耶～～～～</string>
                     <fontDescription key="fontDescription" type="system" pointSize="17"/>
