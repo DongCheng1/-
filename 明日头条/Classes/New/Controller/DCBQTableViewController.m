@@ -58,7 +58,7 @@ static NSString * const ID = @"cell";
     parameters[@"action"] = @"sub";
     parameters[@"c"] = @"topic";
     [mgr GET:@"http://api.budejie.com/api/api_open.php" parameters:parameters progress:nil success:^(NSURLSessionDataTask * _Nonnull task, NSArray *  _Nullable responseObject) {
-        NSLog(@"%@",responseObject);
+        //NSLog(@"%@",responseObject);
         [SVProgressHUD dismiss];
         //[responseObject writeToFile:@"/Users/dongcheng/Desktop/Baisibudejie/Baisibudejie/Classes/New/Controller/tag2.plist" atomically:YES];
         
